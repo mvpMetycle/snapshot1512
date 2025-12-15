@@ -1,0 +1,1 @@
+ALTER TYPE country_of_origin_enum ADD VALUE 'Hong Kong';
